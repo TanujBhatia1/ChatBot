@@ -1,0 +1,18 @@
+[project]
+name = "chatbottanuj"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chromadb>=1.3.5",
+    "faiss-cpu>=1.13.0",
+    "ipykernel>=7.1.0",
+    "langchain>=1.0.8",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.0.7",
+    "langchain-text-splitters>=1.0.0",
+    "pymupdf>=1.26.6",
+    "pypdf>=6.3.0",
+    "sentence-transformers>=5.1.2",
+]
