@@ -15,3 +15,6 @@ data/pdf/
 data/vectorstore/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+#groq api
+.groq/
