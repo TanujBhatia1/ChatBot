@@ -2,7 +2,7 @@ from typing import List, Any
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 import numpy as np
-from src.data_loader import loaders
+from data_loader import loaders
 
 class EmbeddingPipeline:
     
